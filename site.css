@@ -5,8 +5,10 @@ h1 {
 	font-family: 'Montserrat Alternates', sans-serif;
 }
 h2 {
-        color: crimson;
+        color: red;
 }
 p {
-	color: red
+	color: blue;
 }
+body {
+	background-color: #e3f2fd;
