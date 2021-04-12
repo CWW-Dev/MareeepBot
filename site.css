@@ -13,4 +13,9 @@ p {
 body {
 	background-color: #e3f2fd;
 }
-<script src='https://rawgit.com/dwyl/faster/master/lib/client.js'></script>
+button {
+	background-color: transparent;
+	border: 2px;
+	border-color: darkgreen;
+	color: darkgreen;
+}
