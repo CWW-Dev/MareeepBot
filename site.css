@@ -16,7 +16,8 @@ body {
 }
 button {
 	background-color: transparent;
-	border: 2px;
+	border-width: 2px;
 	border-color: darkgreen;
 	color: darkgreen;
+	border-radius: 10px;
 }
